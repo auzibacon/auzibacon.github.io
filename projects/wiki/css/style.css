@@ -1,0 +1,26 @@
+body{
+    font-family:'Times New Roman', Times, serif
+}
+.section{
+    font-family: 'Libre Franklin';
+    font-size: 30px;
+}
+
+h3,
+h4{
+    font-family: 'PT Serif';
+    font-size: 20px;
+    color: #B1835E;
+}
+
+.box{
+   background-color: #A0C9B8;
+   font-size: 15px;
+   line-height: 8px;
+   margin-right: 50%;
+   padding: 20px;
+}
+
+img{
+    width: 30%;
+}

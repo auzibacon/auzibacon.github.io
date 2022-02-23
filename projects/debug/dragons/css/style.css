@@ -1,0 +1,50 @@
+.photo {
+    color: #ff4500;
+}
+
+.intro,
+.country {
+    color: #ff4500;
+}
+
+.origin,
+.info {
+    color: #778899;
+}
+
+img {
+    width: 50%;
+}
+
+body {
+    font-family: 'Gudea', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    line-height: 50%;
+}
+
+h2 {
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.illustration {
+    line-height: 5%;
+    margin: 10px;
+}
+
+.free {
+    line-height: 5%;
+}
+
+div {
+    border: solid;
+    color: #2e8b57;
+}

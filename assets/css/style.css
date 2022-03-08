@@ -1,3 +1,26 @@
 h1 {
     color: red;
 }
+
+h1 {
+    text-align: center;
+}
+
+.col-md-6 {
+    text-align: center;
+}
+
+.rounded {
+    max-width: 40%;
+    margin: .2em;
+
+}
+
+.card-img-overlay {
+    background-color: #e6e6e69c;
+    color: black;
+}
+
+.home_about {
+    padding: .8em;
+}

@@ -1,9 +1,6 @@
 h1 {
-    color: red;
-}
-
-h1 {
     text-align: center;
+    color: red;
 }
 
 .col-md-6 {
@@ -23,4 +20,32 @@ h1 {
 
 .home_about {
     padding: .8em;
+}
+
+.navbar {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.nav-link,
+h1,
+a {
+    color: #78290f;
+}
+
+.nav-link:hover,
+a:hover {
+    color: white;
+}
+
+body {
+    background-color: #818D92;
+}
+
+h1,
+h5 {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.card-text {
+    font-family: 'Open Sans', sans-serif;
 }

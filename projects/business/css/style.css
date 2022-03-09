@@ -32,11 +32,23 @@ a:hover {
 }
 
 .block {
-    text-align:center;
-    font-size:1.3em;
-    padding:10px;
+    text-align: center;
+    font-size: 1.3em;
+    padding: 10px;
 }
 
 h1 {
     font-size: 5em;
+}
+
+@media (max-width:375px) {
+    body {
+        background-color: black;
+    }
+
+    h1 {
+        color: #BCA371;
+        margin: .5em;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 }

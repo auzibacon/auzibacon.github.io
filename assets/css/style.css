@@ -3,7 +3,8 @@ h1 {
     color: red;
 }
 
-.col-md-6 {
+.col-md-6,
+h2 {
     text-align: center;
 }
 
@@ -14,22 +15,42 @@ h1 {
 }
 
 .card-img-overlay {
-    background-color: #e6e6e69c;
+    background-color: #7474749a;
     color: black;
 }
 
-.home_about {
+.home_about{
     padding: .8em;
 }
 
-.navbar {
+.card-title{
+    margin-top: 25%;
+}
+
+.secondary{
+    margin-top: 1em;
+}
+
+.card-title,
+.card-text{
+background-color:#ffffff70;
+}
+
+.navbar,
+.navbar-brand {
     font-family: 'Bebas Neue', cursive;
+    font-size: 1.4em;
 }
 
 .nav-link,
 h1,
-a {
+a,
+.read-clips {
     color: #78290f;
+}
+
+.read:hover {
+    color:black;
 }
 
 .nav-link:hover,
@@ -42,10 +63,11 @@ body {
 }
 
 h1,
-h5 {
+h5{
     font-family: 'Cormorant Garamond', serif;
 }
 
-.card-text {
+.card-text,
+body {
     font-family: 'Open Sans', sans-serif;
 }

@@ -19,21 +19,21 @@ h2 {
     color: black;
 }
 
-.home_about{
+.home_about {
     padding: .8em;
 }
 
-.card-title{
+.card-title {
     margin-top: 25%;
 }
 
-.secondary{
+.secondary {
     margin-top: 1em;
 }
 
 .card-title,
-.card-text{
-background-color:#ffffff70;
+.card-text {
+    background-color: #ffffff70;
 }
 
 .navbar,
@@ -50,7 +50,7 @@ a,
 }
 
 .read:hover {
-    color:black;
+    color: black;
 }
 
 .nav-link:hover,
@@ -63,7 +63,7 @@ body {
 }
 
 h1,
-h5{
+h5 {
     font-family: 'Cormorant Garamond', serif;
 }
 

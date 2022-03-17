@@ -31,6 +31,10 @@ h2 {
     margin-top: 1em;
 }
 
+.contact {
+    background-color: rgba(255, 255, 255, 0.699);
+}
+
 .card-title,
 .card-text {
     background-color: #ffffff70;
@@ -70,4 +74,8 @@ h5 {
 .card-text,
 body {
     font-family: 'Open Sans', sans-serif;
+}
+
+.date {
+    text-align: right;
 }

@@ -1,0 +1,63 @@
+body {
+    background-color: #564946;
+    font-family: 'Red Hat Display', sans-serif;
+    color: #F7F5FB;
+}
+
+.byline {
+    text-align: right;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+header {
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+section {
+    width: 45%;
+    margin: 5% auto;
+}
+
+.quote {
+    font-size: 29px;
+    margin-bottom: 50%;
+    color: #08060f;
+}
+
+.one {
+    margin-top: 45%;
+}
+
+.two {
+    margin-bottom: 20%;
+}
+
+.photo {
+    align-items: center;
+    margin-left: 12%;
+}
+
+.caption {
+    font-family: 'EB Garamond', serif;
+}
+
+.content {
+    margin: 5% auto;
+}
+
+.col-md-9,
+.ms-auto {
+    background-color: #95B46A;
+}
+
+.content_flipped{
+    margin: 5% 15%;
+}
+
+.ms-auto{
+    padding: 25px;
+}

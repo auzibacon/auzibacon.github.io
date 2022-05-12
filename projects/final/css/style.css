@@ -25,7 +25,7 @@ section {
 .quote {
     font-size: 29px;
     margin-bottom: 50%;
-    color: #08060f;
+    color: #F7F5FB;
 }
 
 .one {
@@ -65,3 +65,40 @@ section {
 .ms-auto{
     padding: 25px;
 }
+
+@media(max-width: 450px) {
+   .byline{
+       text-align: center;
+   }
+
+   .quote{
+       font-size: 23px;
+   }
+
+   .flourish-chart{
+       margin-right: 5%;
+   }
+
+   .col-md-9{
+       margin-top: 10%
+   }
+
+   section{
+width: 80%;
+}
+}
+
+@media(max-width: 800px) {
+    .byline{
+        text-align: center;
+    }
+ 
+    section{
+ width: 80%;
+ }
+
+ .content,
+ .content_flipped{
+     margin: 5% auto;
+ }
+ }

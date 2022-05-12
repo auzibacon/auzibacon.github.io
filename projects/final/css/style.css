@@ -36,7 +36,11 @@ section {
     margin-bottom: 20%;
 }
 
-.photo {
+.flourish-chart{
+    margin-right: 20%;
+}
+
+.photo{
     align-items: center;
     margin-left: 12%;
 }

@@ -53,7 +53,7 @@ section {
     margin: 5% auto;
 }
 
-.col-md-9,
+.col-md-5,
 .ms-auto {
     background-color: #95B46A;
 }
@@ -79,22 +79,18 @@ section {
         margin-right: 5%;
     }
 
-    .col-md-9 {
+    .col-md-5 {
         margin-top: 10%
     }
 
     section {
-        width: 80%;
+        width: 90%;
     }
 }
 
 @media(max-width: 800px) {
     .byline {
         text-align: center;
-    }
-
-    section {
-        width: 80%;
     }
 
     .content,
